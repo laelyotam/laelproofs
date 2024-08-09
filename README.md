@@ -2,7 +2,7 @@
 
 ---
 
-# Lael's Archive
+# Lael's Proofs
 
 **Author:** Kris Lael Uri Mayim Yotam (Kris Yotam)
 
